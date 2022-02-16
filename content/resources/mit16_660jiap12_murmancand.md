@@ -2,8 +2,12 @@
 content_type: resource
 description: This file contains in formation regarding enhancing faculty competency
   in lean thinking bodies of knowledge.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/5159479b4698ae8a764d482b2e1f11d7_MIT16_660JIAP12_MURManCand.pdf
+file: /media/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/5159479b4698ae8a764d482b2e1f11d7_MIT16_660JIAP12_MURManCand.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Document
 title: MIT16_660JIAP12_MURManCand.pdf
 uid: 5159479b-4698-ae8a-764d-482b2e1f11d7

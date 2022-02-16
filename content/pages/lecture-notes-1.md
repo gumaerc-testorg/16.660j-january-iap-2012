@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c5db4d7c-b32c-066d-ce4e-879129f5d32d
 ---
@@ -11,7 +14,7 @@ LEGO® Simulation
 
 Sessions 2–1, 2–3, and 2–5 are comprised of Lego® simulations. In-class materials are not available on MIT OpenCourseWare. For the enterprise track, the following paper and presentation describe the simulation and student reactions.
 
-McManus, Hugh, Eric Rebentisch, Earll Murman, and Alexis Stanke. "Teaching Lean Thinking Principles Through Hands-On Simulations." Presented at the 3rd International CDIO Conference, MIT, June 11–14, 2007.
+McManus, Hugh, Eric Rebentisch, Earll Murman, and Alexis Stanke. "Teaching Lean Thinking Principles Through Hands-On Simulations." Presented at the 3{{< sup "rd" >}} International CDIO Conference, MIT, June 11–14, 2007.
 
 [Paper (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_sim_paper)
 

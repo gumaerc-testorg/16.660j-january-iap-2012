@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding eric dickson bio.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/1b61540e9264dc89f429ef276dedefac_MIT16_660JIAP12_DicksBio.pdf
+file: /media/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/1b61540e9264dc89f429ef276dedefac_MIT16_660JIAP12_DicksBio.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Lecture Videos
+parent_type: CourseSection
 resourcetype: Document
 title: 16.660 Lecture 3-7 Eric Dickson Bio
 uid: 1b61540e-9264-dc89-f429-ef276dedefac

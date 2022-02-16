@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Lean for healthcare: An Overview (PDF - 7.7MB)](resources/mit16_660jiap12_3-3sheeh)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Ses. 3-3 Lean for healthcare: An Overview'
 uid: 18631987-9f2d-1630-c9e7-2ec6cab27b73
 video_files:
   archive_url: http://www.archive.org/download/MIT16.660JIAP12/MIT16_660JIAP12_ses3-3_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/607138a64deb5f3394e08022afff5cf9_I-DIXcoeaNQ.vtt
+  video_captions_file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/607138a64deb5f3394e08022afff5cf9_I-DIXcoeaNQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/I-DIXcoeaNQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/ac85583588c93bbd66b517e50ad64a50_I-DIXcoeaNQ.pdf
+  video_transcript_file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/ac85583588c93bbd66b517e50ad64a50_I-DIXcoeaNQ.pdf
 video_metadata:
   youtube_id: I-DIXcoeaNQ
 ---

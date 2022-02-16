@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/3614b63684f73815f4f89b1c4849d9f6_z1KloN7Ub0M.pdf
+file: /media/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/3614b63684f73815f4f89b1c4849d9f6_z1KloN7Ub0M.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 3614b636-84f7-3815-f4f8-9b1c4849d9f6

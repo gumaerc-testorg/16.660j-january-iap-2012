@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Six Sigma basics (PDF)](resources/mit16_660jiap12_3-6)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Ses. 3-6 Six Sigma basics
 uid: a1659249-7b11-b864-aaa4-9a32c6d8d402
 video_files:
   archive_url: http://www.archive.org/download/MIT16.660JIAP12/MIT16_660JIAP12_ses3-6_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/4170e7748cb8520f9d12a9e92637cdd5_c6-ybCfU6Zc.vtt
+  video_captions_file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/4170e7748cb8520f9d12a9e92637cdd5_c6-ybCfU6Zc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/c6-ybCfU6Zc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/fffc4793c86e6503bece95a551560511_c6-ybCfU6Zc.pdf
+  video_transcript_file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/fffc4793c86e6503bece95a551560511_c6-ybCfU6Zc.pdf
 video_metadata:
   youtube_id: c6-ybCfU6Zc
 ---

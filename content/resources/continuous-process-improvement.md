@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Continuous process improvement (PDF - 1.5MB)](resources/mit16_660jiap12_2-2h)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Ses. 2-2H Continuous process improvement
 uid: 00e3c01a-d401-5af0-bf8d-461cf9c97344
 video_files:
   archive_url: http://www.archive.org/download/MIT16.660JIAP12/MIT16_660JIAP12_ses2-2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/b733061807295c1d8263db14d72ec481_dNvt3SSm9Jc.vtt
+  video_captions_file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/b733061807295c1d8263db14d72ec481_dNvt3SSm9Jc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/dNvt3SSm9Jc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/688561f9724581ba0d383acbb67d66ea_dNvt3SSm9Jc.pdf
+  video_transcript_file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/688561f9724581ba0d383acbb67d66ea_dNvt3SSm9Jc.pdf
 video_metadata:
   youtube_id: dNvt3SSm9Jc
 ---

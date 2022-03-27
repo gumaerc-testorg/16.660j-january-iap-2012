@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 549a545c-14f9-1e5d-70db-082f366376c2
 resourcetype: Document
 title: 'The LAI Lean Academy Experience: Introductory Lean Six Sigma Curriculum'
 uid: 73eac796-f63b-4cb9-52e8-e5e802c5be0d

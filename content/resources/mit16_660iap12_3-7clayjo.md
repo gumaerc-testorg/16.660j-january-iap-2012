@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Document
 title: '16.660 Lecture 3-7 Enterprise Speaker: Clay Jones'
 uid: 63569c80-b761-98f8-ce16-f57d42016035

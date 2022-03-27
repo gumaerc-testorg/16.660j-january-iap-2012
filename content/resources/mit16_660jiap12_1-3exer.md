@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Document
 title: '16.660 Lecture 1-3: Sasha & Andy Hot Dog Exercise'
 uid: b0d1b982-5d35-e230-2798-75a6b23fc498

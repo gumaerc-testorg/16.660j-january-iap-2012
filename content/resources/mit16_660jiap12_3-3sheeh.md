@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Document
 title: '16.660 Lecture 3-3: Guest Speaker, Susan Sheehy'
 uid: 54135f13-274b-2330-db53-4823f363b9de

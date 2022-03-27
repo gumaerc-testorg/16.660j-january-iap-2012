@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Document
 title: '16.660 Lecture 1-4: Tour notes'
 uid: 371d9b73-808f-031e-6316-ca3f914eb569

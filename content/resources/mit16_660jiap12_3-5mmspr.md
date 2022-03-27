@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Other
 title: MIT16_660JIAP12_3-5MMSpr.xls
 uid: fcfa47b0-4f08-3a1d-c690-a2f46e00455d

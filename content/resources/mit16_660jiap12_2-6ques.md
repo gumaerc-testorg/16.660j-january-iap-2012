@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Document
 title: '16.660 Lecture 2-6: Questions'
 uid: 16d668dd-34fc-9ad5-0f74-c1b1fe8beafd

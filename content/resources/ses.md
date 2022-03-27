@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Ses. 2-1H, 2-3H, and 2-5H Simulation video
 uid: 44da9efc-c7ad-e3ed-6e99-455877ec8d40
 video_files:

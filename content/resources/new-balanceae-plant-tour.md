@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Ses. 1-4 New Balance\xAE plant tour"
 uid: 44d9f1e8-e6c4-b51a-c9c8-b3110e2cebe9
 video_files:

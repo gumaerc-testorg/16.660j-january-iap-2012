@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 549a545c-14f9-1e5d-70db-082f366376c2
 resourcetype: Document
 title: 16.660 Instructor Biography, Earll Murman
 uid: 7b6c2f87-20d3-da34-8b89-75c1baed17f6

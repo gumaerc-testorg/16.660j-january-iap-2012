@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Ses. 2-1E, 2-3E, and 2-5E Simulation video
 uid: f639a77f-6d2c-427b-d07b-92626fb07d04
 video_files:

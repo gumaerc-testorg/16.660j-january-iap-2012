@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Document
 title: MIT16_660JIAP12_3-7Clybio.pdf
 uid: 138b3dff-a71f-cfd7-3c41-725274a821ec

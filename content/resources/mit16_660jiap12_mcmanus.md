@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 549a545c-14f9-1e5d-70db-082f366376c2
 resourcetype: Document
 title: 16.660 Instructor Biography, Hugh McManus
 uid: e4bea8dd-89ac-f49d-450a-325b2e04065e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Document
 title: '16.660 Lecture 3-7: Enterprise Speaker, Eric Dickson'
 uid: 789850c7-6d03-e645-1e94-b1fdda9bf67f

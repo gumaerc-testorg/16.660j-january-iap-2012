@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 549a545c-14f9-1e5d-70db-082f366376c2
 resourcetype: Document
 title: 16.660 Instructor Biography, Bo Madsen
 uid: e33b88e6-dbf2-f663-ee3e-9040b69e6e46

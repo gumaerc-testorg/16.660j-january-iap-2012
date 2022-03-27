@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 41be8c54-3171-ea80-5878-4f750489aaf0
 resourcetype: Document
 title: '16.660 Lecture 3-7: Enterprise Speaker, Dick Lewis'
 uid: 209e2216-e43a-5e10-df8b-b53cdbc4f1f6

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lean healthcare simulation I: Baseline performance (PDF)](resources/mit16_660jiap12_2-1h)'
+optional_text: '[Lean healthcare simulation I: Baseline performance (PDF)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_2-1h)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This video covers aspects of the Lean healthcare clinic simulation sessions. It describes the student experience and covers some of the lessons they learned. For educators, this segment also covers aspects of the learning simulation.
 
 **Instructor:** Hugh McManus, Earll Murman, and Bo Madsen
+
+
+

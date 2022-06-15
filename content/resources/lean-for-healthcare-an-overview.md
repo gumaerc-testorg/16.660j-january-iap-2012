@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lean for healthcare: An Overview (PDF - 7.7MB)](resources/mit16_660jiap12_3-3sheeh)'
+optional_text: '[Lean for healthcare: An Overview (PDF - 7.7MB)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_3-3sheeh)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This session covers how Lean can be implemented in healthcare settings. Susan Sheehy of Lean Healthcare West describes the process and presents sample cases where clinics mapped out their problems and identified solutions as a team.
 
 **Instructor:** Susan Sheehy
+
+
+

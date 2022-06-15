@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: "[New Balance\xAE plant tour (PDF)](resources/mit16_660jiap12_1-4)"
+optional_text: "[New Balance\xAE plant tour (PDF)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_1-4)"
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor:** Earll Murman, Annalisa Weigel, Al Haggerty, Hugh McManus
 
 This video is from the IAP 2008 version of the class.
+
+
+

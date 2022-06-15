@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, biographies of course instructors, course history, and the schedule
+  of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -20,14 +23,14 @@ The curriculum corresponds to 24 hours spread over 3 days. The almost 600 slides
 
 Biographies of the course instructors can be found below:
 
-*   [Earll Murman (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_murman)
-*   [Hugh McManus (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_mcmanus)
-*   [Annalisa Weigel (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_weigel)
-*   [Bo Madsen (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_madsen)
+*   {{% resource_link 7b6c2f87-20d3-da34-8b89-75c1baed17f6 "Earll Murman (PDF)" %}}
+*   {{% resource_link e4bea8dd-89ac-f49d-450a-325b2e04065e "Hugh McManus (PDF)" %}}
+*   {{% resource_link 38116a66-2389-c996-3d25-e0b8e8247635 "Annalisa Weigel (PDF)" %}}
+*   {{% resource_link e33b88e6-dbf2-f663-ee3e-9040b69e6e46 "Bo Madsen (PDF)" %}}
 
 The following paper provides an overview of the course history, content, and outcomes.
 
-Murman, Earll, Hugh McManus, and Annalisa Weigel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The LAI Lean Academy Experience: Introductory Lean Six Sigma Curriculum." (PDF)]({{< baseurl >}}/resources/mit16_660jiap12_iserc2013) Presented at the Industrial and Systems Engineering Research Conference, May 21, 2013.
+Murman, Earll, Hugh McManus, and Annalisa Weigel. {{% resource_link 73eac796-f63b-4cb9-52e8-e5e802c5be0d "\"The LAI Lean Academy Experience: Introductory Lean Six Sigma Curriculum.\" (PDF)" %}} Presented at the Industrial and Systems Engineering Research Conference, May 21, 2013.
 
 Schedule
 --------

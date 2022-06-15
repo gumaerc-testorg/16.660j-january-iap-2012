@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/bb78b1786a42a480232edcea35949fcd_pfZ6CTEPc9s.pdf
+file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/bb78b1786a42a480232edcea35949fcd_pfZ6CTEPc9s.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

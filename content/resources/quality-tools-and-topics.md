@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Quality tools and topics (PDF - 1.6MB)](resources/mit16_660jiap12_3-5)'
+optional_text: '[Quality tools and topics (PDF - 1.6MB)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_3-5)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This session covers why quality is essential to Lean in achieving customer satisfaction. The instructor presents various tools for ensuring quality and discusses why inspection is an ineffective means of producing high quality products and services.
 
 **Instructor:** Annalisa Weigel
+
+
+

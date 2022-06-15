@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lean supply chain basics (PDF - 1.2MB)](resources/mit16_660jiap12_2-2e)'
+optional_text: '[Lean supply chain basics (PDF - 1.2MB)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_2-2e)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor:** Earll Murman, Annalisa Weigel, Al Haggerty, Hugh McManus
 
 This video is from the IAP 2008 version of the class.
+
+
+

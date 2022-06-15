@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Value stream mapping basics (PDF)](resources/mit16_660jiap12_1-6)'
+optional_text: '[Value stream mapping basics (PDF)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_1-6)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This session covers the basics of sketching a value stream map and conducting value stream analysis. Using the example of hot dog stand, the class evaluates steps for process improvement employing this approach.
 
 **Instructor:** Bo Madsen, and Hugh McManus
+
+
+

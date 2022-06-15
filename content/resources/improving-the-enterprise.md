@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Improving the enterprise (PDF - 1.0MB)](resources/mit16_660jiap12_2-4h)'
+optional_text: '[Improving the enterprise (PDF - 1.0MB)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_2-4h)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This session covers Lean thinking beyond the local level and evaluates how to address issues that are outside the control of the clinic at the enterprise level. Rapid Process Improvement Workshops are introduced as a means of achieving larger-scale change.
 
 **Instructor:** Earll Murman
+
+
+

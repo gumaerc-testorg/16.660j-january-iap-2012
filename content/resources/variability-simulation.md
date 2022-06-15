@@ -27,3 +27,6 @@ video_metadata:
 **Description:** This session covers a simulation that demonstrates the impact of variability on process performance. The class evaluates data from a dice simulation and computer simulation to show how variability reduces expected product performance.
 
 **Instructor:** Hugh McManus
+
+
+

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[A3 thinking (PDF)](resources/mit16_660jiap12_3-4)'
+optional_text: '[A3 thinking (PDF)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_3-4)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This session presents examples of A3 planning and uses an accounts payable case study from Rockwell Collins for an in-class planning exercise.
 
 **Instructor:** Annalisa Weigel
+
+
+

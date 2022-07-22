@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: Lecture Notes
 optional_text: '[Variability simulation (PDF)](resources/mit16_660jiap12_3-2)'
 parent_title: Lecture Videos
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This session covers a simulation that demonstrates the impact of variability on process performance. The class evaluates data from a dice simulation and computer simulation to show how variability reduces expected product performance.
 
 **Instructor:** Hugh McManus
-
-
 

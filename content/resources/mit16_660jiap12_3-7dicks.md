@@ -6,6 +6,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '16.660 Lecture 3-7: Enterprise Speaker, Eric Dickson'
 uid: 789850c7-6d03-e645-1e94-b1fdda9bf67f
 ---
 This resource contains information regarding enterprise speaker, eric dickson.
-

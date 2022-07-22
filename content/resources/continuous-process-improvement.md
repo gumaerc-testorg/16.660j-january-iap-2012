@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Continuous process improvement (PDF - 1.5MB)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_2-2h)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This session covers continuous process improvement as it pertains to healthcare. Students work in teams to apply value stream mapping and Lean tools to improve flow in their clinics. Teams then perform root cause analysis and devise improvement plans.
 
 **Instructor:** Bo Madsen, and Hugh McManus
-
-
 

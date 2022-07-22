@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lean thinking Part 2 (PDF)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_1-3part2)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This session covers the second half of the Lean thinking behind value, value stream, flow, pull and perfection. Students complete an in-class exercise examining the cycle time of a hot dog stand from order to delivery.
 
 **Instructor:** Hugh McManus
-
-
 

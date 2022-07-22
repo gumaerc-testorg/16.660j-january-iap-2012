@@ -6,6 +6,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '16.660 Lecture 1-1: Virtual assessment of Lean user experience'
 uid: 81895f55-6cd9-76ca-2f4e-dd021a9f3d4f
 ---
 This resource contains information regarding virtual assessment of lean user experience.
-

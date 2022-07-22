@@ -6,6 +6,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '16.660 Lecture 2-6: Current state value stream map'
 uid: 0a345f62-e450-120d-4941-bdfbdbe9fd08
 ---
 This resource contains information regarding current state value stream map.
-

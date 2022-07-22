@@ -5,6 +5,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '16.660 Lecture 1-3: Lean Thinking Part I'
 uid: 89cdaf42-eb4e-fcf2-46b0-3fed7c7018cd
 ---
 This resource contains information regarding lean thinking part I.
-

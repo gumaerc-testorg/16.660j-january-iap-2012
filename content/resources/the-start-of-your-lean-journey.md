@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[The start of your Lean journey (PDF)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_1-2)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This session introduces the process of Lean and Six Sigma. It includes a 6S exercise demonstrating the benefits of six sigma in optimizing operations by sorting, securing safety, straightening, scrubbing, standardizing and sustaining these changes.
 
 **Instructor:** Earll Murman
-
-
 

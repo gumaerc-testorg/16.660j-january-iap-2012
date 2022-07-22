@@ -5,6 +5,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '16.660 Lecture 2-6: Case Study'
 uid: 318d7e13-5fd7-6c2a-328b-5edef52d0e8b
 ---
 This resource contains information regarding case study.
-

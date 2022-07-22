@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lean thinking Part 1 (PDF - 1.1MB)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_1-3part1)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This session is part one of a session introducing Lean thinking. It includes an exercise on constructing process maps for a hot dog stand followed by a waste walking analysis.
 
 **Instructor:** Hugh McManus
-
-
 

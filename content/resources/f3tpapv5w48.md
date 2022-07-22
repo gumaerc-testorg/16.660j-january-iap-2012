@@ -4,6 +4,7 @@ description: ''
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/ab0a4d9bff05e843d8ed46af093555bd_F3tPapv5w48.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

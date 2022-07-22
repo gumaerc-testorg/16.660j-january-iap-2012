@@ -5,6 +5,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16.660 LEGO Simulation Presentation
 uid: 3a13b195-1c01-8242-e7ee-4513ba6af211
 ---
 This resource contains information regarding LEGO simulation presentation.
-

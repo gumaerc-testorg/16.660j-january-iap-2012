@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ video_metadata:
 **Instructor:** Earll Murman, Annalisa Weigel, Al Haggerty, Hugh McManus
 
 This video is from the IAP 2008 version of the class.
-
-
 

@@ -5,6 +5,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '16.660 Lecture 1-4: Tour notes'
 uid: 371d9b73-808f-031e-6316-ca3f914eb569
 ---
 This resource contains information regarding tour notes.
-

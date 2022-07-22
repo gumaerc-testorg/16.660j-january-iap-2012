@@ -5,6 +5,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/d
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT16_660JIAP12_3-2VarSi.xls
 uid: db2a1e0c-ca80-fb1d-c276-1320a834da33
 ---
 This resource contains information regarding variability simulation.
-

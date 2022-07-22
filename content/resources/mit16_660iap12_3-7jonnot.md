@@ -5,6 +5,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16.660 Lecture 3-7 Clay Jones Notes
 uid: 40312170-5aad-4c6e-80ff-a7dc4a4b2670
 ---
 This resource contains information regarding clay jones notes.
-

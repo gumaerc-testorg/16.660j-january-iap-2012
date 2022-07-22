@@ -5,6 +5,7 @@ file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/f
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT16_660JIAP12_3-5MMSpr.xls
 uid: fcfa47b0-4f08-3a1d-c690-a2f46e00455d
 ---
 This resource contains information regarding M&M checklist.
-

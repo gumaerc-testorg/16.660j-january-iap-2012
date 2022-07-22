@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[People: The heart of Lean (PDF - 2.0MB)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_1-5)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This session covers the challenges of the human element of Lean and considers ways to keep workers productive and happy. It includes an in-class debate with teams discussing the competitive advantage of early Lean adopters vs. second followers.
 
 **Instructor:** Annalisa Weigel
-
-
 

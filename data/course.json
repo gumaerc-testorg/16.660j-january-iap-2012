@@ -63,8 +63,10 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "5d60f20c-c0e9-4a04-b05c-e407c36c14d2",
+  "site_uid": "e6b494ba-dbcf-4091-896a-afefb4837d7b",
+  "site_short_id": "16.660j-january-iap-2012",
   "title": "Course Metadata"
 }

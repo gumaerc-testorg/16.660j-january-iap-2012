@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/53677a881a385e700c9d7bbfbc1fa0c8_uVlkeGHup6E.srt
+file_size: 88781
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/138b3dffa71fcfd73c41725274a821ec_MIT16_660JIAP12_3-7Clybio.pdf
+file_size: 130207
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

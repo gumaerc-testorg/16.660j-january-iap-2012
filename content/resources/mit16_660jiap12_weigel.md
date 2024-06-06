@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding instructor biography, Annalisa
   Weigel.
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/38116a662389c9963d25e0b8e8247635_MIT16_660JIAP12_weigel.pdf
+file_size: 76431
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

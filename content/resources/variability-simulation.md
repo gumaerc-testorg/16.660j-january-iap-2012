@@ -3,11 +3,12 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '81156777'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: Lecture Notes
-optional_text: '[Variability simulation (PDF)](resources/mit16_660jiap12_3-2)'
+optional_text: '[Variability simulation (PDF)](/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/resources/mit16_660jiap12_3-2)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -24,8 +25,6 @@ video_files:
 video_metadata:
   youtube_id: uDBGHmhAmT8
 ---
-
 **Description:** This session covers a simulation that demonstrates the impact of variability on process performance. The class evaluates data from a dice simulation and computer simulation to show how variability reduces expected product performance.
 
 **Instructor:** Hugh McManus
-

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding instructor biography, Earll
   Murman.
 file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/7b6c2f8720d3da348b8975c1baed17f6_MIT16_660JIAP12_murman.pdf
+file_size: 77068
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

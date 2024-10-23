@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lean thinking part I.
-file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/89cdaf42eb4efcf246b03fed7c7018cd_MIT16_660JIAP12_1-3part1.pdf
+file: /ol-ocw-studio-app/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/89cdaf42eb4efcf246b03fed7c7018cd_MIT16_660JIAP12_1-3part1.pdf
 file_size: 1105023
 file_type: application/pdf
 learning_resource_types:

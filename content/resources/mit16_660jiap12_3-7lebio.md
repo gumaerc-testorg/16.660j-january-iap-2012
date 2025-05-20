@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding dick lewis bio.
-file: /ol-ocw-studio-app/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/011ce744e6a28dbdf1f8fc4a4041db1a_MIT16_660JIAP12_3-7LeBio.pdf
+file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/011ce744e6a28dbdf1f8fc4a4041db1a_MIT16_660JIAP12_3-7LeBio.pdf
 file_size: 68698
 file_type: application/pdf
 learning_resource_types:

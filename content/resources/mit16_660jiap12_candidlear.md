@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding active learning strategies for
   teaching lean thinking.
-file: /ol-ocw-studio-app/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/a9ab95c0a44343f11af32e8f0b93a5fd_MIT16_660JIAP12_CANDIDLear.pdf
+file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/a9ab95c0a44343f11af32e8f0b93a5fd_MIT16_660JIAP12_CANDIDLear.pdf
 file_size: 327916
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding tour notes.
-file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/371d9b73808f031e6316ca3f914eb569_MIT16_660JIAP12_1-4notes.pdf
+file: /ol-ocw-studio-app/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/371d9b73808f031e6316ca3f914eb569_MIT16_660JIAP12_1-4notes.pdf
 file_size: 135268
 file_type: application/pdf
 learning_resource_types:

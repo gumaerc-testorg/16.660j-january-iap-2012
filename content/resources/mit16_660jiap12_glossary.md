@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/cb7b7689f877c88831caea046d125a59_MIT16_660JIAP12_Glossary.pdf
+file: /ol-ocw-studio-app/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/cb7b7689f877c88831caea046d125a59_MIT16_660JIAP12_Glossary.pdf
 file_size: 223889
 file_type: application/pdf
 learning_resource_types:

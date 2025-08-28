@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding M&M checklist.
-file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/fcfa47b04f083a1dc690a2f46e00455d_MIT16_660JIAP12_3-5MMSpr.xls
+file: /ol-ocw-studio-app/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/fcfa47b04f083a1dc690a2f46e00455d_MIT16_660JIAP12_3-5MMSpr.xls
 file_size: 61952
 file_type: application/vnd.ms-excel
 learning_resource_types:

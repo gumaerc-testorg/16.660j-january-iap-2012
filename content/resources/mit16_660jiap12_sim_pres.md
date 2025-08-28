@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding LEGO simulation presentation.
-file: /courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/3a13b1951c018242e7ee4513ba6af211_MIT16_660JIAP12_sim_pres.pdf
+file: /ol-ocw-studio-app/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/3a13b1951c018242e7ee4513ba6af211_MIT16_660JIAP12_sim_pres.pdf
 file_size: 615791
 file_type: application/pdf
 learning_resource_types:
